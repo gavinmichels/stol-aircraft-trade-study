@@ -3,7 +3,7 @@
 MATLAB-based trade study investigating the effects of key aircraft design parameters on Short Takeoff and Landing (STOL) performance.
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-R2025a-orange)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Status](https://img.shields.io/badge/Status-Development-yellow)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
 ---
